@@ -1,5 +1,7 @@
+package week10;
 import javax.swing.*;
 import java.awt.*;
+
 
 class MyFirstPanel_2 extends JPanel {
     MyFirstPanel_2(){
